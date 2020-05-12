@@ -1,0 +1,7 @@
+ipython
+numpy
+astropy
+scipy
+pandas
+matplotlib
+jupyterlab_launcher>=0.5.0
